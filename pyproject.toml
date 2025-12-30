@@ -1,0 +1,17 @@
+[project]
+name = "FastMCP Servers"
+version = "0.1.0"
+description = "Wrap mcp servers under one mcp server."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.127.0",
+    "fastmcp>=2.10.6",
+    "httpx>=0.28.1",
+    "langchain>=1.1.3",
+    "langchain-openai>=1.1.2",
+    "langgraph>=1.0.4",
+    "mcp>=1.22.0",
+    "pyjwt>=2.10.1",
+    "starlette>=0.50.0",
+]
