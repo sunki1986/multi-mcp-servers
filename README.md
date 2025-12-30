@@ -9,7 +9,7 @@ This project implements a unified **Model Context Protocol (MCP)** server that w
 
 ## Prerequisites
 - [uv](docs.astral.sh) installed on your system.
-- Python 3.10 or higher.
+- Python 3.12 or higher.
 
 ## Installation
 
