@@ -19,8 +19,12 @@ Clone the repository and install dependencies using `uv`:
 git clone <your-repo-url>
 cd <your-repo-name>
 uv sync
+```
 
+## Testing
 
-# Tool Testing:
-
-![alt text](image.png)
+Test using postman by creating a new MCP Collection. 
+Steps:
+1. Click connect button
+2. Run one of the tools listed 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f737c575-37ed-48de-8b43-9b84ea17ed59" />
