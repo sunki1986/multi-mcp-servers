@@ -15,17 +15,17 @@ This project implements a unified **Model Context Protocol (MCP)** server that w
 
 Clone the repository and install dependencies using `uv`:
 
-## Run
-
-1. python mcp_mapth.py -- run server 1
-2. python mcp_science.py -- run server 2
-3. python server.py -- main server that wraps both the servers for end use
-
 ```bash
 git clone <your-repo-url>
 cd <your-repo-name>
 uv sync
 ```
+
+## Run
+
+1. python mcp_mapth.py -- run server 1
+2. python mcp_science.py -- run server 2
+3. python server.py -- main server that wraps both the servers for end use
 
 ## Testing
 
