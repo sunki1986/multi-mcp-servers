@@ -19,3 +19,8 @@ Clone the repository and install dependencies using `uv`:
 git clone <your-repo-url>
 cd <your-repo-name>
 uv sync
+
+
+# Tool Testing:
+
+![alt text](image.png)
